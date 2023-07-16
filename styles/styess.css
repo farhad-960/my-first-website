@@ -19,7 +19,13 @@ nav {
     background: navy;
     height: 80px;
     width: auto;
-    text-decoration: underline;
+    
+}
+label.logo{
+    color: white;
+    font-size: 35px;
+    line-height: 80px;
+    padding: 0 100px;
 }
 nav ul {
     float: right;
@@ -30,5 +36,4 @@ nav ul li {
     display: inline-block;
     line-height: 80px;
     margin: 0 5px;
-    text-decoration: underline red;
 }
